@@ -1,6 +1,10 @@
 # twitter-sentiment-analysis  
 ### Uses multinomial naive bayes classifier
 
+## Project link: [twitter sentiment analysis](https://github.com/Gunjan933/twitter-sentiment-analysis/blob/master/twitter-sentiment-analysis.ipynb)
+
+## Project report link: [twitter sentiment analysis project report](https://github.com/Gunjan933/twitter-sentiment-analysis/blob/master/report/project_report.pdf)
+
 #### Datasets taken from
 * **[Kaggle Twitter dataset](https://www.kaggle.com/c/twitter-sentiment-analysis2/data)**
 
